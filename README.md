@@ -18,4 +18,4 @@ I’m someone who can balance both being outgoing and introverted. I enjoy conne
 
 ## 💻 My Projects  
 ### 🧪 MIDTERM 
-- [Midterm Task 1]()
+- [Midterm Task 1](https://github.com/arshPatchak/javaProjects/blob/main/Midterm%20Task/Lab%20Task01/Laboratory%20Task%20SUBMISSION%20Requirements.pdf)
